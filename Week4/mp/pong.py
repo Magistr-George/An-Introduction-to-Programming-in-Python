@@ -1,6 +1,7 @@
 # Implementation of classic arcade game Pong
 
-import simplegui
+#import simplegui
+import SimpleGUICS2Pygame.simpleguics2pygame as simplegui
 import random
 
 # initialize globals - pos and vel encode vertical info for paddles
